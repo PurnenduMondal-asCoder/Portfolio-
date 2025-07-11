@@ -43,8 +43,8 @@ This website is fully responsive and works across desktops, tablets, and mobile 
 
 Feel free to connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(Update with your link)*
-- 📧 Email: your.email@example.com *(Update this)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/purnendu-mondal-785078272/) 
+- 📧 Email: purnendumondal389@gmail.com.com 
 - 🌍 Portfolio: [Live Website](https://purnendumondal-ascoder.github.io/Portfolio-/)
 
 ---
